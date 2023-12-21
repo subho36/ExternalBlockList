@@ -2,3 +2,4 @@ donate.v2.xmrig.com
 xmrig.com
 de.zephyr.herominers.com
 herominers.com
+miningpoolstats.stream
